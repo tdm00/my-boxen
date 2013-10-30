@@ -37,3 +37,5 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 github "java",     "1.1.2"
+github "omnigraffle::pro", "1.2.0"
+
